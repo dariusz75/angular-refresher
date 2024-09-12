@@ -23,14 +23,6 @@ main {
   text-align: center;
 }
 
-ul {
-  list-style: none;
-}
-
-li {
-  margin-bottom: 10px;
-}
-
 @media (min-width: 768px) {
   main {
     margin: 4rem auto;
